@@ -184,7 +184,8 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: 'Nanum Gothic', sans-serif;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		/*font-family: 'Nanum Gothic', sans-serif;*/
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
